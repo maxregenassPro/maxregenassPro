@@ -1,4 +1,4 @@
-## 👋 Bienvenue sur mon GitHub
+### 👋 Bienvenue sur mon GitHub
 
 Je suis un(e) passionné(e) de développement logiciel et d’informatique.
 Ici, tu trouveras mes projets, mes expérimentations et mes contributions.
